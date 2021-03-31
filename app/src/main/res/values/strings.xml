@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trend App</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCtyMv3IX0yjex_LR_4dFcdnptW2-zco-8</string>
+    <string-array name="event_spinner">
+        <item>HANGOUT</item>
+        <item>PERNIKAHAN</item>
+        <item>KANTOR</item>
+        <item>KEBUDAYAAN</item>
+        <item>SPORT</item>
+        <item>KAMPUS</item>
+        <item>REUNI</item>
+        <item>ULANG TAHUN</item>
+    </string-array>
+</resources>
